@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:CupertinoAnimationTabBar/CupertinoAnimationTabBar.dart';
+import 'package:cupertino_animation_tabbar/CupertinoAnimationTabBar.dart';
 
 void main() {
   test('adds one to input values', () {
