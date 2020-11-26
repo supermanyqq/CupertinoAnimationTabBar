@@ -1,8 +1,8 @@
 name: CupertinoAnimationTabBar
-description: A new Flutter package project.
+description: A iOS style animated tabbar.
 version: 0.0.1
-author:
-homepage:
+author: qyu
+homepage: https://github.com/supermanyqq/CupertinoAnimationTabBar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
