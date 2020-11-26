@@ -2,4 +2,4 @@
 
 A iOS style animated tab bar.
 
-![](demo.gif)
+<img src="demo.gif" width="100" height="200">
