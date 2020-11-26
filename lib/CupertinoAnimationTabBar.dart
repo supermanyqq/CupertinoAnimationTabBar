@@ -3,14 +3,14 @@ import 'ScaleAnimatedIcon.dart';
 
 const double _kTabBarHeight = 50.0;
 
-class CustomTabBar extends CupertinoTabBar {
-  CustomTabBar({
+class CupertinoAnimationTabBar extends CupertinoTabBar {
+  CupertinoAnimationTabBar({
     Key key,
     @required List<BottomNavigationBarItem> items,
     ValueChanged<int> onTap,
     int currentIndex = 0,
     Color backgroundColor = CupertinoColors.white,
-    Color activeColor = const Color(0xFF333333),
+    Color activeColor = const Color(0xFFFC5968),
     Color inactiveColor = CupertinoColors.inactiveGray,
     double iconSize = 24.0,
   }) : super(
@@ -51,7 +51,7 @@ class CustomTabBar extends CupertinoTabBar {
       Border border,
       int currentIndex,
       onTap}) {
-    return CustomTabBar(
+    return CupertinoAnimationTabBar(
       key: key ?? this.key,
       items: items ?? this.items,
       backgroundColor: backgroundColor ?? this.backgroundColor,
