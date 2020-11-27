@@ -1,6 +1,6 @@
 name: cupertino_animation_tabbar
 description: A iOS style animated tabbar.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/supermanyqq/CupertinoAnimationTabBar
 
 environment:
