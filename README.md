@@ -11,7 +11,7 @@ Add the dependency in `pubspec.yaml`:
 ```dart
 dependencies:
   ...
-  cupertino_animation_tabbar: ^0.0.1
+  cupertino_animation_tabbar: ^0.0.2
 ```
 
 ## Usage
